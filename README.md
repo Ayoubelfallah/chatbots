@@ -36,11 +36,15 @@ Frontend: Angular 17.
 Watch the video demonstration for the Employee Onboarding Chatbot: 
 
 
-https://github.com/user-attachments/assets/23f58681-a6a5-4726-8433-49e8c03f0f91
+
 
 
 Watch the video demonstration for the PDF Content Expert Chatbot: 
 
 
-https://github.com/user-attachments/assets/57877ac8-1990-421b-8e08-d9695d64ab15
+https://github.com/user-attachments/assets/23f58681-a6a5-4726-8433-49e8c03f0f91
+
+
+
+
 
