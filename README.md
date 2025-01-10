@@ -37,8 +37,11 @@ Watch the video demonstration for the Employee Onboarding Chatbot:
 
 
 
- 
-Uploading chatbot_guide_Execution.mp4…
+
+
+
+https://github.com/user-attachments/assets/386b21e7-3f57-4179-93f4-5a535c1ddf8c
+
 
 
 
